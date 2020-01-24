@@ -2,7 +2,7 @@
   "name": "basic-http-class-example",
   "version": "1.0.0",
   "engines": {
-    "node": "11.10.0",
+    "node": "12.1.0",
     "npm": "6.13.6"
   },
   "description": "A basic http server",
